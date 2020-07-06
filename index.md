@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##https://robbetsyarif.github.io/rainly/ selamat datang
 
 You can use the [editor on GitHub](https://github.com/RobbetSyarif/cobaseer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
